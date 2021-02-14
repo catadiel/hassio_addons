@@ -1,6 +1,6 @@
 {
   "name": "Nextcloud",
-  "url": "https://github.com/haberda/hassio_addons",
+  "url": "https://github.com/catadiel/hassio_addons",
   "version": "0.7",
   "slug": "nextcloud",
   "ingress": false,
